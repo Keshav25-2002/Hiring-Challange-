@@ -31,3 +31,18 @@ C15: continuous.
 
 Hired Flag: 1,0
 
+Conclusion: 
+
+XGboost algorithms perform very well with an accuracy of 94%.
+
+Further Improvements: 
+
+In order to make it a better application, we can apply the following ideas: 
+
+    1. We can create a backend application using Flask/Django and deploy it on the cloud. 
+
+    2. For Those who have not got selected, we can create a database using SQL and we can store their resumes/information in the database. So when the role appears to match their profile, then we can retrieve and call them for interviews.
+
+
+
+
